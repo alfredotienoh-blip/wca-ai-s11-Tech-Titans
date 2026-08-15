@@ -1,6 +1,0 @@
-# .gitignore
-# cSpell:disable
-venv/
-.venv/
-env/
-.env/
